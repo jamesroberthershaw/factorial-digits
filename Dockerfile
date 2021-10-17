@@ -6,4 +6,4 @@ ADD corigine.py .
 
 RUN pip install numpy 
 
-ENTRYPOINT [ "python", "corigine.py" ]
+ENTRYPOINT [ "python", "factorial-digits.py" ]

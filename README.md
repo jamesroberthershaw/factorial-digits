@@ -13,7 +13,11 @@ then navigate into the direcrory
 ```sh
 cd factorial-digits/
 ```
-and run the following command
+build the Docker image with the following command
+```sh
+docker build --rm -t factorial-digits .
+```
+Now you are able to run the program! Simply use the run command, as seen below, to find the sum of the digits of the factorial of any number!
 
 ```sh
 docker run --rm factorial-digits <value>

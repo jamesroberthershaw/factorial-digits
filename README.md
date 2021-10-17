@@ -1,4 +1,4 @@
-#Factorial-digits
+# Factorial-digits
 
 The program contained in this repository's function is to first calculate the factorial of a given number, then to calculate the sum of the individual digits of that factorial and output the result.
 

@@ -2,7 +2,7 @@
 
 FROM python:3.9
 
-ADD corigine.py . 
+ADD factorial-digits.py . 
 
 RUN pip install numpy 
 
